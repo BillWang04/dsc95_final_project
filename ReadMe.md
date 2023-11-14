@@ -15,6 +15,39 @@ This Jupyter Notebook serves as a comprehensive guide to common Python errors en
 7. [ValueError](#valueerror)
 8. [AttributeError](#attributeerror)
 
+## Keyboard Shortcuts Covered
+
+### Python Commands
+
+- **Get quotations around text**: Highlighting and press ‘ or “
+- **Get parentheses around text**: Highlight and press (
+- **Get brackets around text**: Highlight and press [
+- **Comment out**: `cmd /`
+- **Indent multiple lines at once**: `cmd ]` for left `cmd [` for right
+- **Highlight the same text multiple times**: Highlight and `cmd d` the amount of times you want to highlight
+- **Google doc commands** (`cmd v`, `cmd c`, `cmd x`, `cmd a`, shift-click)
+- Not a shortcut, but **find and replace in Jupyter** is helpful
+- **Copy line**: `cmd c`
+
+### Jupyter Commands
+
+**Command Mode**
+
+- **Go to edit a cell**: Enter
+- **Run current cell**: `shift enter`
+- **Create cell below**: `a`
+- **Create cell above**: `b`
+- **Delete cell**: `dd`
+- **Cut Current cell**: `x`
+- **Copy current cell**: `c`
+- **Paste cell below**: `v`
+- **Paste cell above**: `V`
+- `?` after a function such as numpy or pandas to see what the function does or how to use it (like documentation)
+
+**Edit Mode**
+
+- **Go to command mode**: Escape
+
 
 ## Usage
 
