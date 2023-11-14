@@ -2,7 +2,14 @@
 
 ## Introduction
 
-This Jupyter Notebook serves as a comprehensive guide to common Python errors encountered while working in Jupyter Notebooks in DSC10. It provides detailed explanations of various error types, their causes, and suggested solutions. Whether you're a beginner or an experienced developer, this guide aims to help you troubleshoot and resolve errors effectively.
+# Error Handling and Keyboard Shortcuts in Jupyter Notebooks
+
+This Jupyter Notebook serves as a comprehensive guide to common Python errors encountered while working in Jupyter Notebooks, specifically tailored for DSC10. It provides detailed explanations of various error types, their causes, and suggested solutions.
+
+Keyboard shortcuts are an essential aspect of efficient coding and navigating Jupyter Notebooks. Mastering these shortcuts can significantly enhance your productivity.
+
+Feel free to explore the detailed explanations and examples of common Python errors, as well as the keyboard shortcuts provided in this guide to streamline your workflow in Jupyter Notebooks.
+
 
 ## Errors Covered
 
