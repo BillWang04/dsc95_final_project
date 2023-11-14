@@ -13,11 +13,8 @@ This Jupyter Notebook serves as a comprehensive guide to common Python errors en
 5. [IndexError](#indexerror)
 6. [KeyError](#keyerror)
 7. [ValueError](#valueerror)
-8. [FileNotFoundError](#filenotfounderror)
-9. [ModuleNotFoundError](#modulenotfounderror)
-10. [AttributeError](#attributeerror)
-11. [ZeroDivisionError](#zerodivisionerror)
-12. [ImportError](#importerror)
+8. [AttributeError](#attributeerror)
+
 
 ## Usage
 
